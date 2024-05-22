@@ -13,7 +13,7 @@ parts = []
 def snake():
     nPart = T("square")
     nPart.penup()
-    nPart.shapesize(0.9)
+    nPart.shapessize(0.9)
     nPart.color("Dark Grey")
     nPart.goto((-20 * _, 0))
     parts.append(nPart)
