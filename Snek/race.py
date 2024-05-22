@@ -1,7 +1,7 @@
 from turtle import Turtle, Screen
 import random, time
 from datetime import datetime
-random.seed(dateetime.now().timestamp())
+random.seed(datetime.now().timestamp())
 
 s = Screen()
 s.setup(width=500, height=400)
