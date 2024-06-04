@@ -9,7 +9,7 @@ S.tracer(0)#aaa
 parts = []
 
 
-# add moving smol snake
+# add moving smol snakea
 def snake():
     nPart = T("square")
     nPart.penup()
