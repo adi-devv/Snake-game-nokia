@@ -6,7 +6,7 @@ random.seed(datetime.now().timestamp())
 s = Screen()
 s.setup(width=500, height=400)
 bet = s.textinput(title="Make your bet", prompt="Which turtle will win?")
-
+#aa
 Turs = []
 for i in range(7):
     t = Turtle(shape="turtle")
