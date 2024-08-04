@@ -5,7 +5,7 @@ S = turtle.Screen()
 S.setup(width=630, height=630)
 S.bgcolor("Light Green")
 S.title("Snakeyy")
-S.tracer(0)#aaa
+S.tracer(0)
 parts = []
 
 
